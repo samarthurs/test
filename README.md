@@ -1,2 +1,2 @@
 # test
-test repo
+test repo to explore git and its capabilities
